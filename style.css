@@ -1,0 +1,57 @@
+header{
+	background-color: black;
+	height: 80px;
+	padding: 20px;
+	text-align: center;
+}
+footer{
+	background-color: #D2691E;
+	text-align: center;
+}
+h1{
+	color: white;
+}
+p{
+	font-size: 15px;
+	font-family: Helvetica, arial;
+	text-shadow: 1px 1px 1px #1111;
+	color: white;
+}
+/*id*/
+#principal{
+	min-height: 400px;
+	padding: 80px;
+	background-color: black;
+}
+body{
+	background-color: white;
+}
+label{
+	color: white;
+}
+#inscrever{
+	color: black;
+}
+.container{
+	background-color: rgba(54, 54, 54);
+	text-align: center;
+	width: 500px;
+	display: inline-block;
+}
+.login{
+	background-color: rgba(106, 90, 205);
+	width: 200px;
+	display: inline-block;
+}
+.main{
+	min-height: 400px;
+	padding: 80px;
+	background-color: black;
+	text-align: center;
+}
+.print{
+	color:red;
+}
+.printT{
+	color:white;
+}
